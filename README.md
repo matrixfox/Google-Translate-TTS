@@ -43,13 +43,15 @@ Extras
 
 Dump File from Website
 ---
+```
 lynx -dump http://matrixfox.github.io/blog/2013/12/11/kali-linux-se-toolkit-social-engineering-toolkit/ > file.txt
-
+```
 
 Rip
 ---
+```
 python GoogleTTS.py -o out.mp3 -f file.txt
-
+```
 
 Remember
 ===================
